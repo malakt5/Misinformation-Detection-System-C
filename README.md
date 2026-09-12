@@ -123,7 +123,7 @@ It combines linked lists and directed graphs to model relationships between news
 ## 👩‍💻 Authors
 
 **Malak Touibi**
-**Chayma Yahiaoui**
+
 
 Algorithmique et Structures de Données 2 — ISG Tunis
 
