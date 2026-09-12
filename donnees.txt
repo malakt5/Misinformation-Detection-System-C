@@ -1,0 +1,28 @@
+A 0 "choc_rumeurs_match_fixe_elections_tunisie" TunisWeb 78 10 4 2026 10 0
+A 1 "la_verite_sur_fake_news_sport_electoral" MosaikNews 84 10 4 2026 10 0
+A 2 "alerte_influence_reseaux_sport_vote" Kapitalis 73 10 4 2026 10 0
+A 3 "analyse_fact_checking_sport_elections_tunisie" Inkyfada 90 10 4 2026 10 0
+A 4 "choc_accusations_manipulation_scores_viraux" BusinessNewsTN 76 11 4 2026 12 0
+A 5 "la_verite_sur_bots_football_politique" Nawaat 88 11 4 2026 12 0
+A 6 "rapport_desinformation_sport_medias_tunisiens" ShemsFM 69 11 4 2026 12 0
+A 7 "alerte_video_truquee_match_selection" DirectInfo 14 11 4 2026 12 0
+A 8 "choc_propagande_sportive_campagne_electorale" LeMaghreb 85 15 4 2026 14 0
+A 9 "bulletin_analyse_media_sport_elections" TAP 82 15 4 2026 14 0
+
+C 0 1
+C 1 2
+C 2 3
+C 3 0
+C 4 5
+C 5 6
+C 6 7
+C 7 4
+C 4 2
+C 5 1
+C 6 3
+C 7 0
+C 8 9
+C 9 8
+C 8 5
+C 9 6
+C 9 2
